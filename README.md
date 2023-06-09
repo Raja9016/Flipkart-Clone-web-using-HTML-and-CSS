@@ -1,6 +1,6 @@
 # Flipkart-Clone-web-using-HTML-and-CSS
 
-The file name index is main code other files are images and videos used in it.
+The file name index is main code file which contains the html code other files are images and videos used in it.
 To make it more intreactive and responsive each images connected with original flipkart link so that if you click on it your screen shift to original Flipkart site.
 
 Steps for Access the file. First of all download the Flipkart Clone Folder.

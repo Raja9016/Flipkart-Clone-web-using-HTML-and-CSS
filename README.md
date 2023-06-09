@@ -6,8 +6,11 @@ To make it more intreactive and responsive each images connected with original f
 Steps for Access the file. First of all download the Flipkart Clone Folder.
 
 Step 1: Open folder in vs code or any other platform.
+
 Step 2: Save the code.
+
 Step 3: Open File Manager and just open the index file in browser with the help of open with option.
+
 Step 4: Here we go Flipkart clone is front of you.
 
 Some Images of Flipkart Clone:
